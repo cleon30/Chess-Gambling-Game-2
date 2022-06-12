@@ -14,4 +14,6 @@ Then we have the Javascript part and were you are going to run the Chess game so
 `npm install`
 `yarn add ts-mocha`
 
-`npm run start`
+`npm run start` 
+
+If you want to fork it or colaborate on something you're welcome :)
