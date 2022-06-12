@@ -1,0 +1,1 @@
+/mnt/c/Users/Usuario/Documents/GitHub/Chess-Gambling-Game/chess/smart-contract/target/bpfel-unknown-unknown/release/libsmart_contract.rlib: /mnt/c/Users/Usuario/Documents/GitHub/Chess-Gambling-Game/chess/smart-contract/programs/smart-contract/src/lib.rs
