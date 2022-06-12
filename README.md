@@ -1,7 +1,7 @@
 # Solana Chess Gambling Game 
 
 ### **Welcome 👋**
-To get started with this course, clone this repo and follow these commands:
+To get started with this Project, clone this repo and follow these commands:
 First of all there are 2 main parts of the project.
 
 The first part will be the Solana Smart Contract that you will see It inside the Smart-Contract directory
