@@ -17,3 +17,5 @@ Then we have the Javascript part and were you are going to run the Chess game so
 `npm run start` 
 
 If you want to fork it or colaborate on something you're welcome :)
+
+This project has been the 2nd winner of the Solana Track at Encode Club x ATX DAO hackathon in the University of Texas Austin :)
