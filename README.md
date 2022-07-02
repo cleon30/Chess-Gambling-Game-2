@@ -19,4 +19,6 @@ Then we have the Javascript part and were you are going to run the Chess game so
 If you want to fork it or colaborate on something you're welcome :)
 
 This project has been the 2nd winner of the Solana Track at Encode Club x ATX DAO hackathon in the University of Texas Austin :)
+
+
 ![0399363F-A9D5-4180-A03B-53C0475A5394_1_105_c](https://user-images.githubusercontent.com/62452212/176984803-23fd8585-835a-4a46-bbe1-eb92cb96aa03.jpeg)
